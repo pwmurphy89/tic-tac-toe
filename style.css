@@ -1,0 +1,27 @@
+#header{
+    text-align: center;
+}
+#game-board {
+    margin: 0 auto;
+    height: 500px;
+    width: 500px;
+}
+.square {
+    vertical-align: top;
+    width: 30%;
+    height: 100px;
+    display: inline-block;
+}
+#new-game{
+    display: none;
+    margin: 0 auto;
+}
+#message{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
